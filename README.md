@@ -29,6 +29,6 @@ O tema está alinhado ao **ODS 16 — Paz, Justiça e Instituições Fortes**, d
 ## 🧭 Etapas do projeto
 
 - [x] **Etapa 1:** formação do grupo, definição do tema, escolha da base de dados, documentação inicial
-- [ ] **Etapa 2:** caracterização dos componentes da série temporal e pipeline de investigação
-- [ ] **Etapa 3:** modelagem, implementação e avaliação de modelos preditivos
+- [x] **Etapa 2:** caracterização dos componentes da série temporal e pipeline de investigação
+- [x] **Etapa 3:** modelagem, implementação e avaliação de modelos preditivos
 - [ ] **Etapa 4:** análise crítica, apresentação final e documentação dos resultados
